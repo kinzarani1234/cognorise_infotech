@@ -56,7 +56,8 @@ To deploy the app locally:
 Navigate to the folder where app.py is located.
 Run the following command in your terminal or command prompt:
 
-streamlit run app.py
+###### streamlit run app.py
+
 The app will be served on localhost and can be accessed via a browser.
 Libraries Used
 Make sure the following libraries are installed (included in requirements.txt):
