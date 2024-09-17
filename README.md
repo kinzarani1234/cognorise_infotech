@@ -21,6 +21,7 @@ Once you have extracted the dataset and  place this folder in the same directory
 For example:
 
 project-folder/
+
     ├── app.py
     
     ├── best_model1.keras
