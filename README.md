@@ -22,9 +22,13 @@ For example:
 
 project-folder/
     ├── app.py
+    
     ├── best_model1.keras
+    
     ├── covid19.ipynb
+    
     ├── requirements.txt
+    
     └── Data/  # <-- Place the extracted dataset here
 ### Step 4: Set Up the Environment
 Create a virtual environment and install the necessary libraries.
