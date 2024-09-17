@@ -69,3 +69,10 @@ Pillow
 Streamlit
 You can add other dependencies as needed.
 for example pandas , matplotlib , seaborn, scikit learn
+
+![image](https://github.com/user-attachments/assets/76204b03-0944-436a-9d34-f276e1fc9130)
+![image](https://github.com/user-attachments/assets/a543214c-5ec7-460f-95e6-40ae68a915ee)
+![image](https://github.com/user-attachments/assets/c79f2ddd-a80a-45d3-98d1-dec0a4fbd3e3)
+
+
+
