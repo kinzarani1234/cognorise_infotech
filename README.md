@@ -34,21 +34,23 @@ project-folder/
 ### Step 4: Set Up the Environment
 Create a virtual environment and install the necessary libraries.
 
-# Create a virtual environment (optional but recommended)
+##### Create a virtual environment (optional but recommended)
 python -m venv venv
 
-# Activate the virtual environment
-# On Windows:
+##### Activate the virtual environment
+###### On Windows:
 venv\Scripts\activate
-# On MacOS/Linux:
+###### On MacOS/Linux:
 source venv/bin/activate
 
-# Install dependencies
+##### Install dependencies
 pip install -r requirements.txt
-Step 5: Train and Save the Model
+
+### Step 5: Train and Save the Model
 Open the provided Jupyter notebook (covid19.ipynb) and run all the cells.
 After training, the model will be saved as best_model1.keras.
-Step 6: Run the Streamlit App
+
+### Step 6: Run the Streamlit App
 To deploy the app locally:
 
 Navigate to the folder where app.py is located.
