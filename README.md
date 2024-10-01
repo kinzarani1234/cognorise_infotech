@@ -82,3 +82,44 @@ for example pandas , matplotlib , seaborn, scikit learn
 
 
 
+
+# youtube sentiment analysis project 
+
+### Project: YouTube Comment Sentiment Analyzer
+
+### Created by: Kinza Rani for CognoRise Infotech
+
+### Scraping YouTube comments using YouTube Data API (scraping_comments.py)
+
+### LSTM model for sentiment classification (Positive, Neutral, Negative)
+
+### Train and save model in Jupyter notebook (sentimentk.keras, tokenizerk.pickle)
+
+### Run web app using Streamlit (new2.py)
+
+### Input YouTube video URL to classify and visualize sentiments
+
+### App displays sentiment counts and percentages in bar and pie charts
+
+### To run the app:
+
+### streamlit run new2.py
+
+### Ensure comments are scraped and model is trained before running
+
+
+![image](https://github.com/user-attachments/assets/82adb446-648a-4058-aa9c-f89b132f6aba)
+![image](https://github.com/user-attachments/assets/aabef081-2505-4ed3-bfef-a4976579dcaa)
+![image](https://github.com/user-attachments/assets/c7dfb349-a519-4cbb-ba06-291fde0101b0)
+![image](https://github.com/user-attachments/assets/130b0ce6-ef27-4cf4-97bf-1f266f1f86a3)
+![image](https://github.com/user-attachments/assets/64c745a5-f4e5-4292-8cb6-59cbf6d00919)
+![image](https://github.com/user-attachments/assets/1d23ece7-6740-4bcc-a698-8ca23b1fcd1c)
+
+# MNIST Digit Recognizer
+
+![image](https://github.com/user-attachments/assets/7c8a0b04-c934-474e-834c-600323298b59)
+![image](https://github.com/user-attachments/assets/3744b171-8ff1-4540-9b17-624402a1fa2d)
+
+
+
+
